@@ -1,9 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Hasin Mahtub Khan</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumon360" alt="rumon360" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://hmk360.vercel.app/](https://hmk360.vercel.app/)
 
